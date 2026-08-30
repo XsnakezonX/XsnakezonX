@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Laison and I'm a Software Engineer, in London</h2>
+
+
+<h2 align="left">Hi 👋! My name is Laison and I'm a Software Engineer in London</h2>
 
 ###
 
